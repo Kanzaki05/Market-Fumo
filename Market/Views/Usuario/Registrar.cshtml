@@ -1,0 +1,160 @@
+﻿@model Market.Models.tbl_usuario
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: #363062;
+        }
+
+        .container {
+            padding: 40px;
+            border-radius: 20px;
+            border: 4px solid #363062;
+            background-color: #435585;
+            width: 100%;
+            margin: auto;
+        }
+
+            .container .form {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                gap: 25px;
+            }
+
+            .container .signin {
+                display: flex;
+            }
+
+                .container .signin .input-container {
+                    display: flex;
+                    flex-direction: column;
+                    gap: 10px;
+                }
+
+            .container .form h1 { 
+                text-align: center;
+            }
+
+            .container .form .form-group {
+                width: 85%;
+                margin-bottom: 15px;
+                max-height: 200px;
+            }
+                    
+
+            .container .form .input-group-addon { 
+                min-width: 40px;
+            }
+
+            .container .form .form-group input[type="text"],
+            .container .form .form-group input[type="email"],
+            .container .form .form-group input[type="password"],
+            .container .form input[type="file"],
+            .container .form .form-group textarea {
+                width: 100%; /* Ocupa el 100% del ancho del contenedor .form-group */
+                padding: 10px; /* Ajusta el relleno según tus preferencias */
+                border-radius: 5px; /* Opcional: para bordes redondeados */
+                border: 1px solid #ccc; /* Opcional: para un borde */
+                box-sizing: border-box; /* Asegura que el ancho incluya el relleno y el borde */
+            }
+    </style>
+</head>
+<body>
+
+    <div id="main-div">
+        <div id="box" class="img-responsive">
+            @using (Html.BeginForm("Registrar",
+                            "Usuario",
+                            FormMethod.Post,
+                            new { enctype = "multipart/form-data" }))
+            {
+                <div class="container">
+                    <div class="form signin">
+                        <h1>Registrar Nuevo Usuario</h1> 
+
+                        <div class="form-group">
+                            <div class="input-group">
+                                <div class="input-group-addon"><span class="glyphicon glyphicon-user"></span></div>
+                                @Html.TextBoxFor(x => x.u_nombre, new { @class = "form-control", @placeholder = "Nombre" })
+                            </div>
+                            <span style="color:red">@Html.ValidationMessageFor(x => x.u_nombre)</span>
+                        </div>
+
+
+                        <div class="form-group">
+                            <div class="input-group">
+                                <div class="input-group-addon"><span class="glyphicon glyphicon-user"></span></div>
+                                @Html.TextBoxFor(x => x.u_email, new { @class = "form-control", @placeholder = "Email" })
+                            </div>
+                            <span style="color:red">@Html.ValidationMessageFor(x => x.u_email)</span>
+                        </div>
+
+
+                        <div class="form-group">
+                            <div class="input-group">
+                                <div class="input-group-addon"><span class="glyphicon glyphicon-user"></span></div>
+                                @Html.PasswordFor(x => x.u_clave, new { @class = "form-control", @placeholder = "Contraseña" })
+                            </div>
+                            <span style="color:red">@Html.ValidationMessageFor(x => x.u_clave)</span>
+                        </div>
+
+
+                        <div class="form-group">
+                            <div class="input-group">
+                                <div class="input-group-addon"><span class="glyphicon glyphicon-user"></span></div>
+                                @Html.TextBoxFor(x => x.u_contacto, new { @class = "form-control", @placeholder = "Teléfono" })
+                            </div>
+                            <span style="color:red">@Html.ValidationMessageFor(x => x.u_contacto)</span>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="input-group">
+                                <div class="input-group-addon"><span class="glyphicon glyphicon-user"></span></div>
+                                <input type="file" name="imgfile" id="imgfile" class="form-control" required="required" />
+                            </div>
+                        </div>
+
+                        <div class="form-group" style="text-align:center">
+                            <input type="submit" value="Registrar Usuario" class="btn btn-success btn-block" />
+                        </div>
+
+                        <div class="form-group">
+                            <p style="color:red">@ViewBag.error</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+    <script src="~/Scripts/jquery.validate-vsdoc.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+</body>
+</html>

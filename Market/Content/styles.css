@@ -1,0 +1,65 @@
+﻿/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+main {
+    padding: 20px;
+}
+
+/* Header Styles */
+h1, h2, h3 {
+    margin-bottom: 15px;
+}
+
+/* Button Styles */
+.btn {
+    display: inline-block;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 5px;
+}
+
+    .btn:hover {
+        background-color: #0056b3;
+    }
+
+.btn-outline-dark {
+    color: #343a40;
+    border: 1px solid #343a40;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+    .btn-outline-dark:hover {
+        background-color: #343a40;
+        color: #fff;
+    }
+
+/* Section Styles */
+section {
+    margin-bottom: 30px;
+    padding: 15px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+/* Contact Page Styles */
+address {
+    font-style: normal;
+    margin: 15px 0;
+}
+
+/* Utility Styles */
+.lead {
+    font-size: 1.2em;
+}

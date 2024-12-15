@@ -1,0 +1,556 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|g:\\estudio\\cibertec\\ciclo 5\\cibertec\\desarrollo de servicios web 1\\proyecto\\market\\market\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\usuario\\createpublic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\usuario\\createpublic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\admin\\verusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\admin\\verusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\usuario\\verpublicacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\usuario\\verpublicacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\admin\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\admin\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\usuario\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\usuario\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\usuario\\publicaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\usuario\\publicaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\usuario\\modificarpublicacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\usuario\\modificarpublicacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\models\\verpublicacionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\models\\verpublicacionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\models\\verusuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\models\\verusuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\admin\\categoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\admin\\categoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\content\\paginition.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\content\\paginition.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\market\\models\\tbl_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90982DE1-F05B-4F92-AEE8-D63011B3F0EB}|Market\\Market.csproj|solutionrelative:market\\models\\tbl_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Content\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Market\\Content\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Web.config",
+              "RelativeDocumentMoniker": "Market\\Web.config",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Web.config",
+              "RelativeToolTip": "Market\\Web.config",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEsAAADdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-30T19:27:11.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "styles.css",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Content\\styles.css",
+              "RelativeDocumentMoniker": "Market\\Content\\styles.css",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Content\\styles.css",
+              "RelativeToolTip": "Market\\Content\\styles.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-14T22:53:00.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\_ViewStart.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Market\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T20:00:36.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreatePublic.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Usuario\\CreatePublic.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Usuario\\CreatePublic.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Usuario\\CreatePublic.cshtml",
+              "RelativeToolTip": "Market\\Views\\Usuario\\CreatePublic.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHEAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T00:47:35.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Market\\Views\\Web.config",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Web.config",
+              "RelativeToolTip": "Market\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-30T19:20:38.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Market\\Models\\Model1.edmx",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Market\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-30T19:38:55.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Market\\Controllers\\AdminController.cs",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Market\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:26:45.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "Market\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T03:23:54.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Market\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T20:34:47.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VerUsuario.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Admin\\VerUsuario.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Admin\\VerUsuario.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Admin\\VerUsuario.cshtml",
+              "RelativeToolTip": "Market\\Views\\Admin\\VerUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T05:11:52.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Usuario\\Login.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Usuario\\Login.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Usuario\\Login.cshtml",
+              "RelativeToolTip": "Market\\Views\\Usuario\\Login.cshtml",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAIwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T00:32:49.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VerPublicacion.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Usuario\\VerPublicacion.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Usuario\\VerPublicacion.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Usuario\\VerPublicacion.cshtml",
+              "RelativeToolTip": "Market\\Views\\Usuario\\VerPublicacion.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAKEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T21:30:27.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Site.css",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Market\\Content\\Site.css",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Content\\Site.css",
+              "RelativeToolTip": "Market\\Content\\Site.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-14T22:55:55.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Market\\Controllers\\UsuarioController.cs",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Market\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswP4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:09:45.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "Market\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T00:22:43.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Usuario\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Usuario\\Registrar.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Usuario\\Registrar.cshtml",
+              "RelativeToolTip": "Market\\Views\\Usuario\\Registrar.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAJAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T20:03:31.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuarios.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Admin\\Usuarios.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Admin\\Usuarios.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Admin\\Usuarios.cshtml",
+              "RelativeToolTip": "Market\\Views\\Admin\\Usuarios.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAG0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T04:48:47.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Publicaciones.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Usuario\\Publicaciones.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Usuario\\Publicaciones.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Usuario\\Publicaciones.cshtml",
+              "RelativeToolTip": "Market\\Views\\Usuario\\Publicaciones.cshtml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAK8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T00:00:37.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ModificarPublicacion.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Usuario\\ModificarPublicacion.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Usuario\\ModificarPublicacion.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Usuario\\ModificarPublicacion.cshtml",
+              "RelativeToolTip": "Market\\Views\\Usuario\\ModificarPublicacion.cshtml",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAcwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T02:27:59.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Market\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T02:11:21.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VerPublicacionModel.cs",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Models\\VerPublicacionModel.cs",
+              "RelativeDocumentMoniker": "Market\\Models\\VerPublicacionModel.cs",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Models\\VerPublicacionModel.cs",
+              "RelativeToolTip": "Market\\Models\\VerPublicacionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T01:02:46.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VerUsuarioModel.cs",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Models\\VerUsuarioModel.cs",
+              "RelativeDocumentMoniker": "Market\\Models\\VerUsuarioModel.cs",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Models\\VerUsuarioModel.cs",
+              "RelativeToolTip": "Market\\Models\\VerUsuarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T04:58:45.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Market\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T00:45:02.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Market\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Market\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:20:08.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Market\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T21:30:24.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Home\\Index.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Market\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T21:04:43.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Home\\About.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Market\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T21:04:41.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Market\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T21:04:38.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Categoria.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Admin\\Categoria.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Admin\\Categoria.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Admin\\Categoria.cshtml",
+              "RelativeToolTip": "Market\\Views\\Admin\\Categoria.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T20:59:57.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "Market\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAG0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T20:35:18.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Market\\App_Start\\RouteConfig.cs",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Market\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T00:20:08.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "paginition.css",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Content\\paginition.css",
+              "RelativeDocumentMoniker": "Market\\Content\\paginition.css",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Content\\paginition.css",
+              "RelativeToolTip": "Market\\Content\\paginition.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-06T21:09:53.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "tbl_admin.cs",
+              "DocumentMoniker": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Models\\tbl_admin.cs",
+              "RelativeDocumentMoniker": "Market\\Models\\tbl_admin.cs",
+              "ToolTip": "G:\\estudio\\CIBERTEC\\CICLO 5\\Cibertec\\Desarrollo de Servicios Web 1\\Proyecto\\Market\\Market\\Models\\tbl_admin.cs",
+              "RelativeToolTip": "Market\\Models\\tbl_admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:53:37.858Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

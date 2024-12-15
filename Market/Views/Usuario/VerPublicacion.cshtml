@@ -1,0 +1,162 @@
+﻿@model Market.Models.VerPublicacion
+@{
+    ViewBag.Title = "VerPublicacion";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<div class="container">
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            font-family: sans-serif;
+            background: #818FB4;
+        }
+        
+        .row {
+            display: flex;
+            justify-content: center;
+            margin-top: 50px;
+
+        }
+
+        .col-lg-8 {
+            max-width: 555px;
+            padding: 20px;
+            background-color: #435585; 
+            border-radius: 20px;
+            border: 8px solid #363062;
+            color: #fff; 
+            box-shadow: 0px 0px 20px rgba(0, 0, 0, 2);
+        }
+
+        .imag {
+            justify-content: center;
+            margin-top: 5px;
+        }
+
+        .imag h1  {
+            
+            text-align: center;
+        }
+
+        img {
+            margin-top: 15px;
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+
+        .imagen {
+            justify-content: center;
+            width: 500px;
+            height: 500px;
+            border-radius: 20px;
+            border: 5px solid #F5E8C7;
+            box-shadow: 0px 0px 20px rgba(0, 0, 0, 2);
+        }
+        
+        table {
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        td {
+            padding: 20px;
+            font-size: 21px;
+        }
+
+        h1 {
+            margin-bottom: 10px;
+        }
+
+            h1 small {
+                font-size: 0.5em;
+            }
+
+        p {
+            margin-bottom: 20px;
+        }
+
+        .navi {
+            text-shadow: 0px 9px 10px rgba(0, 0, 0, 2);
+        }
+        .btn {
+            margin-right: 10px;
+            padding: 8px 16px;
+            background-color: #00dfc4; 
+            color: #223243; 
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .buton {
+            text-align: center;
+        }
+
+            .btn:hover {
+                background-color: #00b3a6; 
+            }
+    </style>
+
+    <div class="row">
+        <div class="col-lg-8">
+            <div class="imag">
+                <h1>@Model.pro_nombre</h1>
+
+                <img src="@Url.Content(@Model.pro_imagen)" class="imagen"/>
+            </div>
+            <div>
+                <h1>Descripción: </h1>
+                <p>@Model.pro_descrip</p>
+            </div>
+            
+            <table>
+                <tr>
+                    <td class="navi">Categoría:</td>
+                    <td>@Model.cat_nombre</td>
+                </tr>
+                <tr>
+                    <td class="navi">Autor:</td>
+                    <td>@Model.u_nombre <img src="@Url.Content(@Model.u_imagen)" style="width:40px; height:40px" /></td>
+                </tr>
+                <tr>
+                    <td class="navi">Contacto:</td>
+                    <td>@Model.u_contacto</td>
+                </tr>
+                <tr>
+                    <td class="navi"><h1>Precio S/.</h1></td>
+                    <td><h1>@Model.pro_precio</h1></td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        @if (Convert.ToInt32(Session["u_id"]) == Convert.ToInt32(Model.pro_fk_user))
+                        {
+                            <div class="buton">
+                                @Html.ActionLink("Eliminar Publicación", "DeletePublic", new { id = Model.pro_id }, new { @class = "btn btn-danger btn-sm" })
+
+                                @Html.ActionLink("Modificar Publicación", "ModificarPublicacion", new { id = Model.pro_id }, new { @class = "btn btn-danger btn-sm" })
+                            </div>
+                        }
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script>
+    window.watsonAssistantChatOptions = {
+        integrationID: "04078241-0748-45f1-8c77-9acf138f5e72", // The ID of this integration.
+        region: "au-syd", // The region your integration is hosted in.
+        serviceInstanceID: "72d29ea4-df35-41a2-827e-57d7f66a9aad", // The ID of your service instance.
+        onLoad: async (instance) => { await instance.render(); }
+    };
+    setTimeout(function () {
+        const t = document.createElement('script');
+        t.src = "https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+        document.head.appendChild(t);
+    });
+</script>

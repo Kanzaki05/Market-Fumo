@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@Page.Title</title>
+    @RenderSection("head", required: false)
+
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            background-color: #f8f9fa;
+            color: #343a40;
+            font-family: Arial, sans-serif;
+        }
+
+        .navbar {
+            background-color: #343a40;
+            border-color: #343a40;
+            border-radius: 0;
+            margin-bottom: 0;
+        }
+
+        .navbar-brand {
+            color: #ffffff;
+            font-size: 24px;
+        }
+
+        .navbar-nav > li > a {
+            color: #ffffff;
+        }
+
+            .navbar-nav > li > a:hover,
+            .navbar-nav > li > a:focus {
+                background-color: #ffffff;
+                color: #343a40;
+            }
+
+        .navbar-nav > .active > a,
+        .navbar-nav > .active > a:hover,
+        .navbar-nav > .active > a:focus {
+            background-color: #ffffff;
+            color: #03e9f4;
+        }
+
+        .navbar-nav {
+            float: left;
+        }
+
+        .navbar-left {
+            float: left;
+        }
+
+        .navbar-right {
+            float: right;
+        }
+
+        .navbar-left > li {
+            display: inline-block;
+            margin-right: 10px;
+            border-right: 1px solid #ffffff;
+            padding-right: 10px;
+        }
+
+
+            .navbar-left > li:last-child {
+                border-right: none;
+            }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">                
+                <ul class="nav navbar-nav navbar-left">
+                    <li>@Html.ActionLink("Categoria", "Index", "Usuario", null, new { @class = "na" })</li>
+
+                </ul>
+                <ul class="nav navbar-nav navbar-left">
+                    <li>
+                        @if (Session["u_id"] != null)
+                        {
+                            @Html.ActionLink("Crear Publicación", "CreatePublic", "Usuario", null, new { @class = "na" })
+
+                        }
+                    </li>
+                </ul>
+            </div>
+            
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    @if (Session["u_id"] == null)
+                    {
+
+                        @Html.ActionLink("Iniciar Sesión", "Login", "Usuario", null, new { @class = "na", })
+
+                    }
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    @if (Session["u_id"] == null)
+                    {
+                        @Html.ActionLink("Registrarse", "Registrar", "Usuario", null, new { @class = "na" })
+                    }
+                    else
+                    {
+                        
+                        @Html.ActionLink("Cerrar Sesión", "Salir", "Usuario", null, new { @class = "na" })
+                    }
+                </li>
+            </ul>
+            
+        </div>
+    </nav>
+
+    @RenderBody()
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+</body>
+</html>
